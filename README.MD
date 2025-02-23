@@ -97,8 +97,8 @@ Manual processing of student performance data is time-consuming and error-prone.
   - **[Gift Ahmed]:** Project Lead,Data Processing & API Integration Specialist
 
 ## Live Demo
-
-*(If applicable, include a link to a live demo or a video demonstration.)*
+Watch a walkthrough of the features and codebase:  
+**[Demo Video Link](https://youtu.be/UD8neANL5W8)**
 
 ## Conclusion
 
