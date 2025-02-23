@@ -46,7 +46,7 @@ Manual processing of student performance data is time-consuming and error-prone.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/edutech-report-generator.git
+   git clone https://github.com/giftahmed/edutech-report-generator.git
    cd edutech-report-generator
    Create the Virtual Environment: python -m venv venv
    Activate the Virtual Environment: venv\Scripts\activate
@@ -92,11 +92,9 @@ Manual processing of student performance data is time-consuming and error-prone.
 
 ## Team Information
 
-- **Team Name:** [Your Team Name]
+- **Team Name:** [Giftivus]
 - **Team Members:**
-  - **[Name 1]:** Project Lead, Software Developer
-  - **[Name 2]:** Data Processing & API Integration Specialist
-  - **[Name 3]:** UI/UX Designer & Front-End Developer
+  - **[Gift Ahmed]:** Project Lead,Data Processing & API Integration Specialist
 
 ## Live Demo
 
